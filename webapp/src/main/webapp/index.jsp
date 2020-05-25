@@ -1,6 +1,6 @@
 
 
-===
+
 <!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS</title>
@@ -9,7 +9,7 @@
 <body>
 
 <div class="w3-light-grey w3-padding-64 w3-margin-bottom w3-center">
-  <h1 class="w3-jumbo">Weekly Ping</h1>
+  <h1 class="w3-jumbo">Welcome To WAJID NEWS CHANNEL</h1>
 </div>
 
 <div class="w3-row-padding w3-content" style="max-width:1400px">
